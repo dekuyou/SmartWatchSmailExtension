@@ -14,3 +14,8 @@ gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
+/ss
+/.classpath
+/.project
+/SmartExtensionAPI_src
+/SmartExtensionUtils_src
